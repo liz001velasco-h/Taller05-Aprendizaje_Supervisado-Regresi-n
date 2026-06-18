@@ -94,7 +94,7 @@ El modelo con mejor desempeño fue **Random Forest**, obteniendo:
 
 ## Tecnologías utilizadas
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Scikit-learn
